@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @benuwarinuwa2137
+- 👀 I’m interested in electromagnets
+- 🌱 I’m currently learning c++
